@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_yes">Установить</string>
+    <string name="button_no">Отмена</string>
+    <string name="dialog_title"><b>Adobe® AIR®</b></string>
+    <string name="dialog_text">"Для этого приложения требуется Adobe AIR.
+
+Установить Adobe AIR?"</string>
+</resources>
